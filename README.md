@@ -34,3 +34,10 @@
     - The API will be available at http://127.0.0.1:8000/docs
     - Use /uploadfile/ endpoint to upload a PDF file
     - Use /query/ endpoint to ask questions related to the uploaded PDF
+
+
+## API Documentation
+- Access API documentation at http://127.0.0.1:8000/docs
+
+  ![image](https://github.com/sachin-404/pdf-chat/assets/96824004/6b8c4455-2c7d-4927-b410-7af8f4c68604)
+
